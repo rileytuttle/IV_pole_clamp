@@ -1,0 +1,5 @@
+*.FC:
+*.gcode
+*.FCStd1
+*.step
+*.stl
