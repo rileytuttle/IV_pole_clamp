@@ -1,4 +1,3 @@
-*.FC:
 *.gcode
 *.FCStd1
 *.step
